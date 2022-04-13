@@ -1,0 +1,54 @@
+2022-04-13 09:17:07,938 [Test worker] INFO  (BaseTest.java:26) - Iniciando la configuración
+2022-04-13 09:17:08,415 [Test worker] INFO  (ApplicationProperties.java:35) - Property file to read application-dev.properties
+2022-04-13 09:17:08,465 [Test worker] INFO  (BaseTest.java:28) - Configuración exitosa
+2022-04-13 09:17:20,246 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 09:17:20,247 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 09:17:20,796 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 09:17:20,797 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 09:17:20,887 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 09:17:20,888 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 09:17:21,453 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 09:17:21,455 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 09:17:21,986 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 09:17:21,987 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 09:17:22,078 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 09:17:22,079 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 09:17:22,634 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 09:17:22,635 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 09:17:22,787 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 09:17:22,788 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 09:17:23,357 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 09:17:23,358 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 09:42:01,564 [Test worker] INFO  (BaseTest.java:26) - Iniciando la configuración
+2022-04-13 09:42:02,230 [Test worker] INFO  (ApplicationProperties.java:35) - Property file to read application-dev.properties
+2022-04-13 09:42:02,268 [Test worker] INFO  (BaseTest.java:28) - Configuración exitosa
+2022-04-13 12:34:40,569 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuración
+2022-04-13 12:34:41,459 [Test worker] INFO  (ApplicationProperties.java:35) - Property file to read application-dev.properties
+2022-04-13 12:34:41,524 [Test worker] INFO  (BaseTest.java:29) - Configuración exitosa
+2022-04-13 12:42:37,271 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuración
+2022-04-13 12:42:37,287 [Test worker] INFO  (ApplicationProperties.java:35) - Property file to read application-dev.properties
+2022-04-13 12:42:37,288 [Test worker] INFO  (BaseTest.java:29) - Configuración exitosa
+2022-04-13 12:42:47,147 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 12:42:47,148 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 12:42:47,718 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 12:42:47,720 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 12:42:47,830 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 12:42:47,831 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 12:42:48,424 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 12:42:48,425 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 12:42:48,991 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 12:42:48,992 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 12:42:49,095 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 12:42:49,096 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 12:42:49,618 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 12:42:49,618 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 12:42:49,841 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 12:42:49,841 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 12:42:50,398 [Test worker] INFO  (PrintLogsLog4jTests.java:30) - Iniciando la configuración
+2022-04-13 12:42:50,399 [Test worker] INFO  (PrintLogsLog4jTests.java:38) - Configuración exitosa
+2022-04-13 12:47:51,306 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuración
+2022-04-13 12:47:52,246 [Test worker] INFO  (ApplicationProperties.java:35) - Property file to read application-dev.properties
+2022-04-13 12:47:52,318 [Test worker] INFO  (BaseTest.java:29) - Configuración exitosa
+2022-04-13 12:55:58,166 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuración
+2022-04-13 12:55:59,137 [Test worker] INFO  (ApplicationProperties.java:35) - Property file to read application-dev.properties
+2022-04-13 12:55:59,218 [Test worker] INFO  (BaseTest.java:29) - Configuración exitosa
